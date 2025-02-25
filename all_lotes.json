@@ -1,0 +1,486 @@
+{
+    "20231110": {
+        "Producto": "Salami industrial",
+        "Fecha de produccion": "10/11/2023",
+        "Pesajes": [
+            {
+                "Fecha": "2023-11-15",
+                "Pesos": {
+                    "Pieza 1": "3,438 kg",
+                    "Pieza 2": "3,457 kg",
+                    "Pieza 3": "3,454 kg",
+                    "Pieza 4": "3,403 kg",
+                    "Pieza 5": "3,457 kg"
+                }
+            },
+            {
+                "Fecha": "2023-11-21",
+                "Pesos": {
+                    "Pieza 1": "3,266 kg",
+                    "Pieza 2": "3,252 kg",
+                    "Pieza 3": "3,258 kg",
+                    "Pieza 4": "3,218 kg",
+                    "Pieza 5": "3,259 kg"
+                }
+            },
+            {
+                "Fecha": "2023-12-05",
+                "Pesos": {
+                    "Pieza 1": "2,947 kg",
+                    "Pieza 2": "2,945 kg",
+                    "Pieza 3": "2,933 kg",
+                    "Pieza 4": "2,915 kg",
+                    "Pieza 5": "2,946 kg"
+                }
+            }
+        ]
+    },
+    "20231207": {
+        "Producto": "Chorizo vela",
+        "Fecha de produccion": "07/12/2023",
+        "Pesajes": [
+            {
+                "Fecha": "2023-12-07 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,476 kg",
+                    "Pieza 2": "2,469 kg",
+                    "Pieza 3": "2,479 kg",
+                    "Pieza 4": "2,476 kg",
+                    "Pieza 5": "2,475 kg"
+                }
+            },
+            {
+                "Fecha": "2023-12-12 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,176 kg",
+                    "Pieza 2": "2,187 kg",
+                    "Pieza 3": "2,181 kg",
+                    "Pieza 4": "2,192 kg",
+                    "Pieza 5": "2,182 kg"
+                }
+            },
+            {
+                "Fecha": "2023-12-19 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "1,968 kg",
+                    "Pieza 2": "1,979 kg",
+                    "Pieza 3": "1,979 kg",
+                    "Pieza 4": "1,981 kg",
+                    "Pieza 5": "1,986 kg"
+                }
+            }
+        ]
+    },
+    "20240104": {
+        "Producto": "PRODUCT NAME NOT PROVIDED",
+        "Fecha de produccion": "2024-01-04 00:00:00",
+        "Pesajes": [
+            {
+                "Fecha": "2024-01-04 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,449 kg",
+                    "Pieza 2": "2,449 kg",
+                    "Pieza 3": "2,449 kg",
+                    "Pieza 4": "2,449 kg",
+                    "Pieza 5": "2,449 kg"
+                }
+            },
+            {
+                "Fecha": "2024-01-11 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,081 kg",
+                    "Pieza 2": "2,083 kg",
+                    "Pieza 3": "2,036 kg",
+                    "Pieza 4": "2,086 kg",
+                    "Pieza 5": "2,081 kg"
+                }
+            }
+        ]
+    },
+    "20240202": {
+        "Producto": "PRODUCT NAME NOT PROVIDED",
+        "Fecha de produccion": "2024-02-02",
+        "Pesajes": [
+            {
+                "Fecha": "2024-02-02",
+                "Pesos": {
+                    "Pieza 1": "2,423 kg",
+                    "Pieza 2": "2,423 kg",
+                    "Pieza 3": "2,423 kg",
+                    "Pieza 4": "2,423 kg",
+                    "Pieza 5": "2,423 kg"
+                }
+            },
+            {
+                "Fecha": "2024-02-20",
+                "Pesos": {
+                    "Pieza 1": "1,934 kg",
+                    "Pieza 2": "1,929 kg",
+                    "Pieza 3": "1,945 kg",
+                    "Pieza 4": "1,933 kg",
+                    "Pieza 5": "1,936 kg"
+                }
+            }
+        ]
+    },
+    "20240229": {
+        "Producto": "Salchichon",
+        "Fecha de produccion": "2024-02-29",
+        "Pesajes": [
+            {
+                "Fecha": "2024-02-29",
+                "Pesos": {
+                    "Pieza 1": "2,441 kg",
+                    "Pieza 2": "2,432 kg",
+                    "Pieza 3": "2,438 kg",
+                    "Pieza 4": "2,448 kg",
+                    "Pieza 5": "2,444 kg"
+                }
+            },
+            {
+                "Fecha": "2024-03-12",
+                "Pesos": {
+                    "Pieza 1": "2,011 kg",
+                    "Pieza 2": "2,011 kg",
+                    "Pieza 3": "2,012 kg",
+                    "Pieza 4": "2,016 kg",
+                    "Pieza 5": "2,014 kg"
+                }
+            },
+            {
+                "Fecha": "2024-03-15",
+                "Pesos": {
+                    "Pieza 1": "1,975 kg",
+                    "Pieza 2": "1,973 kg",
+                    "Pieza 3": "1,975 kg",
+                    "Pieza 4": "1,976 kg",
+                    "Pieza 5": "1,974 kg"
+                }
+            },
+            {
+                "Fecha": "2024-03-20",
+                "Pesos": {
+                    "Pieza 1": "1,936 kg",
+                    "Pieza 2": "1,936 kg",
+                    "Pieza 3": "1,940 kg",
+                    "Pieza 4": "1,927 kg",
+                    "Pieza 5": "1,935 kg"
+                }
+            }
+        ]
+    },
+    "20240412": {
+        "Producto": "Salami",
+        "Fecha de produccion": "2024-04-12",
+        "Pesajes": [
+            {
+                "Fecha": "2024-04-12",
+                "Pesos": {
+                    "Pieza 1": "2,439 kg",
+                    "Pieza 2": "2,442 kg",
+                    "Pieza 3": "2,440 kg",
+                    "Pieza 4": "2,443 kg",
+                    "Pieza 5": "2,442 kg"
+                }
+            },
+            {
+                "Fecha": "2024-04-16",
+                "Pesos": {
+                    "Pieza 1": "2,310 kg",
+                    "Pieza 2": "2,307 kg",
+                    "Pieza 3": "2,308 kg",
+                    "Pieza 4": "2,311 kg",
+                    "Pieza 5": "2,305 kg"
+                }
+            },
+            {
+                "Fecha": "2024-04-18",
+                "Pesos": {
+                    "Pieza 1": "2,252 kg",
+                    "Pieza 2": "2,255 kg",
+                    "Pieza 3": "2,250 kg",
+                    "Pieza 4": "2,251 kg",
+                    "Pieza 5": "2,252 kg"
+                }
+            },
+            {
+                "Fecha": "2024-04-23",
+                "Pesos": {
+                    "Pieza 1": "2,186 kg",
+                    "Pieza 2": "2,184 kg",
+                    "Pieza 3": "2,187 kg",
+                    "Pieza 4": "2,185 kg",
+                    "Pieza 5": "2,186 kg"
+                }
+            },
+            {
+                "Fecha": "2024-04-29",
+                "Pesos": {
+                    "Pieza 1": "2,115 kg",
+                    "Pieza 2": "2,117 kg",
+                    "Pieza 3": "2,116 kg",
+                    "Pieza 4": "2,113 kg",
+                    "Pieza 5": "2,115 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-02",
+                "Pesos": {
+                    "Pieza 1": "2,071 kg",
+                    "Pieza 2": "2,074 kg",
+                    "Pieza 3": "2,068 kg",
+                    "Pieza 4": "2,072 kg",
+                    "Pieza 5": "2,075 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-06",
+                "Pesos": {
+                    "Pieza 1": "2,031 kg",
+                    "Pieza 2": "2,035 kg",
+                    "Pieza 3": "2,032 kg",
+                    "Pieza 4": "2,029 kg",
+                    "Pieza 5": "2,030 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-10",
+                "Pesos": {
+                    "Pieza 1": "1,978 kg",
+                    "Pieza 2": "1,975 kg",
+                    "Pieza 3": "1,976 kg",
+                    "Pieza 4": "1,980 kg",
+                    "Pieza 5": "1,974 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-15",
+                "Pesos": {
+                    "Pieza 1": "1,925 kg",
+                    "Pieza 2": "1,922 kg",
+                    "Pieza 3": "1,927 kg",
+                    "Pieza 4": "1,929 kg",
+                    "Pieza 5": "1,925 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-16",
+                "Pesos": {
+                    "Pieza 1": "1,821 kg",
+                    "Pieza 2": "1,808 kg",
+                    "Pieza 3": "1,819 kg",
+                    "Pieza 4": "1,813 kg",
+                    "Pieza 5": "1,815 kg"
+                }
+            }
+        ]
+    },
+    "20240516": {
+        "Producto": "Salchichon Gran Prolongo",
+        "Fecha de produccion": "2024-05-16",
+        "Pesajes": [
+            {
+                "Fecha": "2024-05-16",
+                "Pesos": {
+                    "Pieza 1": "2,442 kg",
+                    "Pieza 2": "2,445 kg",
+                    "Pieza 3": "2,443 kg",
+                    "Pieza 4": "2,440 kg",
+                    "Pieza 5": "2,442 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-20",
+                "Pesos": {
+                    "Pieza 1": "2,194 kg",
+                    "Pieza 2": "2,197 kg",
+                    "Pieza 3": "2,193 kg",
+                    "Pieza 4": "2,194 kg",
+                    "Pieza 5": "2,195 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-27",
+                "Pesos": {
+                    "Pieza 1": "2,019 kg",
+                    "Pieza 2": "2,020 kg",
+                    "Pieza 3": "2,023 kg",
+                    "Pieza 4": "2,022 kg",
+                    "Pieza 5": "2,024 kg"
+                }
+            },
+            {
+                "Fecha": "2024-05-30",
+                "Pesos": {
+                    "Pieza 1": "1,975 kg",
+                    "Pieza 2": "1,972 kg",
+                    "Pieza 3": "1,977 kg",
+                    "Pieza 4": "1,975 kg",
+                    "Pieza 5": "1,973 kg"
+                }
+            },
+            {
+                "Fecha": "2024-06-05",
+                "Pesos": {
+                    "Pieza 1": "1,917 kg",
+                    "Pieza 2": "1,915 kg",
+                    "Pieza 3": "1,918 kg",
+                    "Pieza 4": "1,913 kg",
+                    "Pieza 5": "1,917 kg"
+                }
+            },
+            {
+                "Fecha": "2024-06-11",
+                "Pesos": {
+                    "Pieza 1": "1,858 kg",
+                    "Pieza 2": "1,860 kg",
+                    "Pieza 3": "1,856 kg",
+                    "Pieza 4": "1,859 kg",
+                    "Pieza 5": "1,858 kg"
+                }
+            },
+            {
+                "Fecha": "2024-06-18",
+                "Pesos": {
+                    "Pieza 1": "1,809 kg",
+                    "Pieza 2": "1,812 kg",
+                    "Pieza 3": "1,810 kg",
+                    "Pieza 4": "1,807 kg",
+                    "Pieza 5": "1,809 kg"
+                }
+            }
+        ]
+    },
+    "20240620": {
+        "Producto": "Salchichon Gran Prolongo",
+        "Fecha de produccion": "2024-06-20",
+        "Pesajes": [
+            {
+                "Fecha": "2024-06-20",
+                "Pesos": {
+                    "Pieza 1": "2,434 kg",
+                    "Pieza 2": "2,436 kg",
+                    "Pieza 3": "2,435 kg",
+                    "Pieza 4": "2,436 kg",
+                    "Pieza 5": "2,432 kg"
+                }
+            },
+            {
+                "Fecha": "2024-06-26",
+                "Pesos": {
+                    "Pieza 1": "2,210 kg",
+                    "Pieza 2": "2,207 kg",
+                    "Pieza 3": "2,206 kg",
+                    "Pieza 4": "2,207 kg",
+                    "Pieza 5": "2,209 kg"
+                }
+            },
+            {
+                "Fecha": "2024-07-02",
+                "Pesos": {
+                    "Pieza 1": "2,012 kg",
+                    "Pieza 2": "2,010 kg",
+                    "Pieza 3": "2,013 kg",
+                    "Pieza 4": "2,015 kg",
+                    "Pieza 5": "2,012 kg"
+                }
+            }
+        ]
+    },
+    "20250123": {
+        "Producto": "Salchichon Gran Prolongo",
+        "Fecha de produccion": "2025-01-23",
+        "Pesajes": [
+            {
+                "Fecha": "2025-01-23 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,425 kg",
+                    "Pieza 2": "2,436 kg",
+                    "Pieza 3": "2,432 kg",
+                    "Pieza 4": "2,433 kg",
+                    "Pieza 5": "2,427 kg"
+                }
+            },
+            {
+                "Fecha": "2025-01-27 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,218 kg",
+                    "Pieza 2": "2,220 kg",
+                    "Pieza 3": "2,223 kg",
+                    "Pieza 4": "2,219 kg",
+                    "Pieza 5": "2,221 kg"
+                }
+            },
+            {
+                "Fecha": "2025-01-30 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,198 kg",
+                    "Pieza 2": "2,195 kg",
+                    "Pieza 3": "2,202 kg",
+                    "Pieza 4": "2,201 kg",
+                    "Pieza 5": "2,197 kg"
+                }
+            },
+            {
+                "Fecha": "2025-02-03 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,156 kg",
+                    "Pieza 2": "2,160 kg",
+                    "Pieza 3": "2,152 kg",
+                    "Pieza 4": "2,157 kg",
+                    "Pieza 5": "2,154 kg"
+                }
+            },
+            {
+                "Fecha": "2025-02-06 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "2,020 kg",
+                    "Pieza 2": "2,022 kg",
+                    "Pieza 3": "2,015 kg",
+                    "Pieza 4": "2,018 kg",
+                    "Pieza 5": "2,023 kg"
+                }
+            },
+            {
+                "Fecha": "2025-02-10 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "1,912 kg",
+                    "Pieza 2": "1,915 kg",
+                    "Pieza 3": "1,917 kg",
+                    "Pieza 4": "1,910 kg",
+                    "Pieza 5": "1,913 kg"
+                }
+            },
+            {
+                "Fecha": "2025-02-14 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "1.870 kg",
+                    "Pieza 2": "1,871 kg",
+                    "Pieza 3": "1,868 kg",
+                    "Pieza 4": "1,865 kg",
+                    "Pieza 5": "1,867 kg"
+                }
+            },
+            {
+                "Fecha": "2025-02-18 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "1,828 kg",
+                    "Pieza 2": "1,830 kg",
+                    "Pieza 3": "1,827 kg",
+                    "Pieza 4": "1,825 kg",
+                    "Pieza 5": "1,824 kg"
+                }
+            },
+            {
+                "Fecha": "2025-02-21 00:00:00",
+                "Pesos": {
+                    "Pieza 1": "1,793 kg",
+                    "Pieza 2": "1,796 kg",
+                    "Pieza 3": "1,800 kg",
+                    "Pieza 4": "1,794 kg",
+                    "Pieza 5": "1,801 kg"
+                }
+            }
+        ]
+    }
+}

@@ -10,7 +10,7 @@ class Lote:
         self.lote_id = lote_id
         self.data = data[lote_id]
         self.producto = self.data["Producto"]
-        self.fecha_produccion = self.data["Fecha de producción"]
+        self.fecha_produccion = self.data["Fecha de produccion"]
         self.pesajes = self.data["Pesajes"]
         self.df = self._crear_dataframe()
 
